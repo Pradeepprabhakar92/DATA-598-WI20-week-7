@@ -2,6 +2,7 @@
 # mysimplecompendium
 
 <!-- badges: start -->
+[![R build status](https://github.com/Pradeepprabhakar92/mysimplecompendium/workflows/R-CMD-check/badge.svg)](https://github.com/Pradeepprabhakar92/mysimplecompendium/actions)
 <!-- badges: end -->
 
 The goal of mysimplecompendium package is to create and test two functions that sum and multiply two numbers respectively.
