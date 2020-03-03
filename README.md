@@ -3,6 +3,7 @@
 
 <!-- badges: start -->
 [![R build status](https://github.com/Pradeepprabhakar92/mysimplecompendium/workflows/R-CMD-check/badge.svg)](https://github.com/Pradeepprabhakar92/mysimplecompendium/actions)
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pradeepprabhakar92/mysimplecompendium/master?urlpath=rstudio)
 <!-- badges: end -->
 
 The goal of mysimplecompendium package is to create and test two functions that sum and multiply two numbers respectively.
